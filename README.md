@@ -8,7 +8,7 @@ I' Mark Dave C. Martin current;y studying at Pamantasan ng Lungsod ng Maynila
 - 🔭 I’m currently working on a Internal Company project
 - 🌱 I’m currently learning C#, Js and .net
 - 👯 I’m looking to collaborate on people with the same interest with me
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with my current project
 - 💬 Ask me about myself
 - 📫 How to reach me: martinmarkdave@gmail.com
 
